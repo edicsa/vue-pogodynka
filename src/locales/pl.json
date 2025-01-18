@@ -1,0 +1,25 @@
+{
+    "common": {
+        "remove": "Usuń",
+        "add": "Dodaj"
+    },
+    "home": {
+        "search_by_city_name": "Podaj nazwę miasta.",
+        "search_error": "Coś poszło nie tak, proszę spróbuj ponownie.",
+        "no_results": "Brak wyników pasujących do Twojego zapytania. Spróbuj wpisac inną nazwę miasta."
+    },
+    "city_view": {
+        "note": "Aktualnie przeglądasz podgląd tego miasta. Kliknij ikonę „+”, aby rozpocząć śledzenie miasta.",
+        "feels_like": "Temperatura odczuwalna",
+        "hourly_weather": "Pogoda godzinowa",
+        "7_day_forecast": "7 dniowa prognoza",
+        "remove_city": "Usuń miasto"
+    },
+    "city_list": {
+        "no_items_note": "Nie dodano żadnych lokalizacji. Aby rozpocząć śledzenie lokalizacji, wpisz nazwę miasta w powyższym polu."
+    },
+    "notification":{
+        "info_added":"Miasto {city} zostało dodane.",
+        "info_removed":"Miasto {city} zostało usunięte."
+    }
+}

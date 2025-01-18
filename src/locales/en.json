@@ -1,0 +1,25 @@
+{
+    "common": {
+        "remove": "Remove",
+        "add": "Add"
+    },
+    "home": {
+        "search_by_city_name": "Search for a city or state",
+        "search_error": "Sorry, something went wrong, please try again.",
+        "no_results": "No results match your query, try a different term."
+    },
+    "city_view": {
+        "note": "You are currently previewing this city, click the \"+\" icon to start tracking this city.",
+        "feels_like": "Feels like",
+        "hourly_weather": "Hourly Weather",
+        "7_day_forecast": "7 Day Forecast",
+        "remove_city": "Remove City"
+    },
+    "city_list": {
+        "no_items_note": "No locations added. To start tracking a location, search in the field above."
+    },
+    "notification": {
+        "info_added": "City {city} was added.",
+        "info_removed":"City {city} was removed."
+    }
+}
